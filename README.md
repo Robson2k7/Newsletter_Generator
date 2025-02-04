@@ -1,6 +1,7 @@
 ![Title Screen](screens/title_screen.webp)
 
-Generator Newsletterów to aplikacja oparta na Streamlit, która umożliwia generowanie kodu HTML dla newsletterów. Wykorzystuje model OpenAI GPT-4o do automatycznego parafrazowania treści i formatuje wynik w czytelnej strukturze HTML.
+Generator Newsletterów to aplikacja oparta na Streamlit, która umożliwia generowanie kodu HTML dla newsletterów. 
+Wykorzystuje model OpenAI GPT-4o do automatycznego parafrazowania treści i formatuje wynik w czytelnej strukturze HTML.
 
 ## Funkcjonalności
 
@@ -44,15 +45,16 @@ Klucz najlepiej zapisać w zmiennej środowiskowej systemu operacyjnego. W moim 
 ## Jak korzystać?
 
 1. Wprowadź dane do formularza:
-- Link do książki/promocji
-- Link do grafiki
-- Tytuł książki
-- Treść do sparafrazowania
+- Link do Twojego produktu.
+- Link do grafiki z Twojego serwera lub strony.
+- Nazwa produktu.
+- Treść/opis produktu do sparafrazowania 
+(treść promptu można rozbudować tak aby model językowy wybrał inny ton wypowiedzi, np. bardziej odpowiadający temu co można spotkać w newsletterach lub inny).
 2. Kliknij przycisk „Generuj Newsletter”.
 3. Otrzymasz gotowy kod HTML, który możesz skopiować do swojego newslettera.
 
 
-## Zrzuty ekranu
+## Zrzuty ekranu przedstawiający działanie aplilkacji na przykładzie księgarni internetowej
 
 ![Title Screen](screens/newsletter_app.png)
 
