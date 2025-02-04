@@ -5,11 +5,11 @@ Wykorzystuje model OpenAI GPT-4o do automatycznego parafrazowania treści i form
 
 ## Funkcjonalności
 
-- Dodawanie linków do książek, promocji lub stron docelowych.
+- Dodawanie linków do produktów, promocji lub stron docelowych.
 
 - Obsługa grafik – możliwość dodania linku do grafiki promocyjnej.
 
-- Automatyczne parafrazowanie treści przy użyciu OpenAI GPT-4o.
+- Automatyczne parafrazowanie treści lub opisu produktu przy użyciu OpenAI GPT-4o.
 
 - Generowanie kodu HTML gotowego do użycia w newsletterze.
 
